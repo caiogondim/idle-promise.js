@@ -21,6 +21,7 @@
   "homepage": "https://github.com/caiogondim/idle-promise.js#readme",
   "devDependencies": {
     "ava": "0.23.0",
+    "coveralls": "3.0.0",
     "nyc": "11.2.1",
     "sinon": "4.0.2"
   }
