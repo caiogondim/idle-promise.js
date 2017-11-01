@@ -1,0 +1,27 @@
+{
+  "name": "idle-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nyc ava --serial test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiogondim/idle-promise.js.git"
+  },
+  "author": "Caio Gondim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiogondim/idle-promise.js/issues"
+  },
+  "homepage": "https://github.com/caiogondim/idle-promise.js#readme",
+  "devDependencies": {
+    "ava": "0.23.0",
+    "nyc": "11.2.1",
+    "sinon": "4.0.2"
+  }
+}
