@@ -1,7 +1,7 @@
 <h1 align="center">idle-promise.js</h1>
 
 <div align="center">
-  <a href="https://www.npmjs.com/package/idle-promise"><img src="https://img.shields.io/npm/v/idle-promise.svg" /></a>
+  <a href="https://www.npmjs.com/package/idle-promise"><img src="https://img.shields.io/npm/v/idle-promise.svg" /></a> <img src="http://img.badgesize.io/caiogondim/idle-promise.js/master/src/index.js?compression=gzip">
 </div>
 
 <br>
