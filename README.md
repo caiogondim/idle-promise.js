@@ -41,7 +41,7 @@ await idle()
 // ...
 ```
 
-### Credits
+## Credits
 
 - Icon created by Adrien Coquet
 
