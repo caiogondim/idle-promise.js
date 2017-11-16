@@ -41,6 +41,10 @@ await idle()
 // ...
 ```
 
+### Credits
+
+- Icon created by Adrien Coquet
+
 ---
 
 [caiogondim.com](https://caiogondim.com) &nbsp;&middot;&nbsp;
