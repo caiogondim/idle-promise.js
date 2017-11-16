@@ -1,3 +1,5 @@
+<img src="http://rawgit.com/caiogondim/idle-promise.js/master/logo/banner.svg" width="100%" />
+
 <h1 align="center">idle-promise.js</h1>
 
 <div align="center">
