@@ -1,6 +1,6 @@
 <img src="http://rawgit.com/caiogondim/idle-promise.js/master/logo/banner.svg" width="100%" />
 
-idle-promise
+# idle-promise
 
 <div>
   <a href="https://www.npmjs.com/package/idle-promise"><img src="https://img.shields.io/npm/v/idle-promise.svg" /></a> <img src="http://img.badgesize.io/caiogondim/idle-promise.js/master/src/index.js?compression=gzip"> <a href='https://coveralls.io/github/caiogondim/idle-promise.js'><img src='https://coveralls.io/repos/github/caiogondim/idle-promise.js/badge.svg' alt='Coverage Status' /></a> <img src="http://travis-ci.org/caiogondim/idle-promise.js.svg?branch=master" alt="Travis CI">
